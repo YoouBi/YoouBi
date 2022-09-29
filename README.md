@@ -13,7 +13,7 @@
 
 ***
 > #### 🌼 project
-  * JangJeon Lotto
+  * [JangJeon Lotto](https://github.com/YoouBi/JangJeonLotto)
 * Busan2044
 * Mystery Bookclub
                 
