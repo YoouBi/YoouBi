@@ -1,16 +1,16 @@
-### Hi there 👋
+# This-is-Me
+![header](https://capsule-render.vercel.app/api?type=waving&color=6074EC&height=300&section=header&text=Welcome!&fontColor=FFFFFF&animation=twinkling&desc=Thanks%20for%20coming%20to%20see%20my%20portfolio&#160coding%20render&fontSize=90)
 
-<!--
-**YoouBi/YoouBi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> #### 🌻 Skill
+ **language** Java(Servlet/JSP), 
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ javascript    
+ **RDBMS** <img src="https://img.shields.io/badge/MySQL-447194?style=flat-square&logo=MySQL&logoColor=white"/>    
+ **Version Tool** <img src="https://img.shields.io/badge/GitHub-212121?style=flat-square&logo=GitHub&logoColor=white"/>    
+
+***
+> #### 🌼 project
+  * JangJeon Lotto
+* Busan2044
