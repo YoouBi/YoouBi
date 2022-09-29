@@ -7,7 +7,7 @@
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/>    
  **RDBMS**  <img src="https://img.shields.io/badge/MySQL-447194?style=flat-square&logo=MySQL&logoColor=white"/>    
- **Version Tool**  <img src="https://img.shields.io/badge/Git-212121?style=flat-square&logo=Git&logoColor=white"/>  
+ **Version Tool**  <img src="https://img.shields.io/badge/Git-212121?style=flat-square&logo=Git&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-212121?style=flat-square&logo=GitHub&logoColor=white"/>    
 
 ***
